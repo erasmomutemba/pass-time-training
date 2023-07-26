@@ -8,7 +8,6 @@ namespace Console_Aplication_project
 {
     internal class Estruturas_de_Controle_e_Repeticao
     {
-
         // Par ou Inpar
         public void VerificaParOuInpar()
         {
