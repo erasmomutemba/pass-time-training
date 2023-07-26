@@ -10,6 +10,12 @@ namespace Console_Aplication_project
     {
         static void Main(string[] args)
         {
-        }
+            //Program program = new Program();
+
+            //program.ParOuInpar();
+
+            Estruturas_de_Controle_e_Repeticao estruturas = new Estruturas_de_Controle_e_Repeticao();
+            estruturas.VerificaParOuInpar();
+        }        
     }
 }
