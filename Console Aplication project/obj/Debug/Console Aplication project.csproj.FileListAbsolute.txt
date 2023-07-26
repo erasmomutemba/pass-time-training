@@ -1,0 +1,8 @@
+D:\Projects\pass-time-training\Console Aplication project\bin\Debug\Console Aplication project.exe.config
+D:\Projects\pass-time-training\Console Aplication project\bin\Debug\Console Aplication project.exe
+D:\Projects\pass-time-training\Console Aplication project\bin\Debug\Console Aplication project.pdb
+D:\Projects\pass-time-training\Console Aplication project\obj\Debug\Console Aplication project.csproj.AssemblyReference.cache
+D:\Projects\pass-time-training\Console Aplication project\obj\Debug\Console Aplication project.csproj.SuggestedBindingRedirects.cache
+D:\Projects\pass-time-training\Console Aplication project\obj\Debug\Console Aplication project.csproj.CoreCompileInputs.cache
+D:\Projects\pass-time-training\Console Aplication project\obj\Debug\Console Aplication project.exe
+D:\Projects\pass-time-training\Console Aplication project\obj\Debug\Console Aplication project.pdb
