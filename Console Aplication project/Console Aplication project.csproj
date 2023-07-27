@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Estruturas_de_Controle_e_Repeticao.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Classes\CalculaMedia.cs" />
+    <Compile Include="Classes\Estruturas_de_Controle_e_Repeticao.cs" />
+    <Compile Include="Classes\Factorial.cs" />
+    <Compile Include="Classes\NumeroPrimo.cs" />
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="Classes\Tabuada.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
