@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Console_Aplication_project.Classes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,12 +11,27 @@ namespace Console_Aplication_project
     {
         static void Main(string[] args)
         {
-            //Program program = new Program();
+            //Chamadas dos metodos de outras classes
 
-            //program.ParOuInpar();
+            // Par ou Inpar
+            //Estruturas_de_Controle_e_Repeticao estruturas = new Estruturas_de_Controle_e_Repeticao();
+            //estruturas.VerificaParOuInpar();
 
-            Estruturas_de_Controle_e_Repeticao estruturas = new Estruturas_de_Controle_e_Repeticao();
-            estruturas.VerificaParOuInpar();
+            //// Media de Numeros na lista
+            //CalculaMedia calculaMedia = new CalculaMedia();
+            //calculaMedia.CalculaMediaNaLista();
+
+            //// Tabuada 
+            //Tabuada tabuada = new Tabuada();
+            //tabuada.InprimeTabuada();
+
+            // Numero Primo
+            //NumeroPrimo numeroPrimo = new NumeroPrimo();
+            //numeroPrimo.VerificaNumeroPrimo();
+
+            // Factorial
+            Factorial factorial = new Factorial();
+            factorial.CalculaOFactorial();
         }        
     }
 }
